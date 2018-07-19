@@ -1,0 +1,6 @@
+config/
+out/
+__pycache__/
+*.png
+*.jpg
+*.txt
